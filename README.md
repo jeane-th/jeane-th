@@ -22,11 +22,6 @@
 
 ## 🛠️ Mis habilidades
 
-### Lenguajes de programación
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-
 ### Desarrollo Frontend
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
@@ -34,6 +29,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+
+### Desarollo Backend
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%23512bd4.svg?logo=dotnet&logoColor=white)
 
 ### Base de datos
 
